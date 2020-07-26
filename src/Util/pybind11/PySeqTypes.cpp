@@ -7,6 +7,9 @@
 #include "../YAMLWriter.h"
 #include <pybind11/pybind11.h>
 
+// #include <iostream>
+#include <ostream>
+
 namespace py = pybind11;
 using namespace cnoid;
 
